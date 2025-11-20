@@ -39,7 +39,7 @@ All installer files were sourced from the `osTicket-Installation-Files.zip` pack
 * Create a new VM with **Windows Server** in the Azure Portal.
 * Use the VM’s public IP address to connect via **Remote Desktop Connection (RDP)**.
 * Log in using the administrative credentials created during VM setup.
-* 
+     *<img width="1424" height="437" alt="Screenshot 2025-11-20 151003" src="https://github.com/user-attachments/assets/da291bc7-1d99-43ee-b171-82a365fc1b21" />
 
 ### 2. Download and Extract osTicket Installation Files
 * Inside your VM, download the `osTicket-Installation-Files.zip`. If prompted with a virus scan warning, click **Download anyway**.
